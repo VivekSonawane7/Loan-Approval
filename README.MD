@@ -102,6 +102,7 @@ Loan_Approval_Project/
 ├── best_loan_model.pkl
 ├── app.py
 ├── requirement.txt
+├── .gitignore
 ├── Problem_Statement.txt
 └── README.md
 ```
@@ -214,5 +215,6 @@ Developed a Machine Learning-based loan approval prediction system using financi
 Vivek Pradip Sonawane
 B.Tech Computer Engineering
 Aspiring Data Analyst / Machine Learning Engineer
+
 
 ---
