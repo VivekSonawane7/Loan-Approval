@@ -1,0 +1,21 @@
+# 📌 Problem Statement
+
+Financial institutions receive thousands of loan applications daily.
+Approving or rejecting a loan manually is time-consuming, inconsistent, and prone to human bias.
+
+Banks must evaluate multiple financial factors such as:
+
+* Applicant income
+* Loan amount
+* Loan tenure
+* Credit score (CIBIL score)
+* Repayment capacity
+
+Incorrect loan approval decisions can lead to:
+
+* High default risk
+* Financial losses
+* Reduced profitability
+* Poor customer experience
+
+Therefore, there is a need for an automated and data-driven system that can accurately predict whether a loan should be approved or rejected based on applicant financial indicators.
